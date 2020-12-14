@@ -5,7 +5,7 @@ This repository holds the Simulink code, hardware implementation, and reference 
 Course info:
 ```
 Olin College of Engineering
-Fall 2020 (Coivd Semester)
+Fall 2020 (Covid Semester)
 Intro to Analog and Digital Communications
 ```
 
